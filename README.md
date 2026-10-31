@@ -1,30 +1,25 @@
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.matrixadmin.wrappixel.com/">Matrix Bootstrap Admin Lite</a>
+  <a href="https://wrappixel.com/templates/spike-free-bootstrap-admin">Matrix Bootstrap Admin Lite</a>
 </h1>
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://wrappixel.com/demos/free-admin-templates/all-lite-landing-pages/assets/images/screenshots/matrix-lite-lp-img.jpg">
-  <img src="https://wrappixel.com/demos/free-admin-templates/all-lite-landing-pages/assets/images/screenshots/matrix-lite-lp-img.jpg" />
-</a>
 
 <!-- Description of Template -->
 <p>
-  Matrix Admin is basic yet very useful bootstrap 4 dashbaord template for your projects.If you are looking for modern yet clean admin template for your backend project. Matrix Admin is the right choice for you. If your application requires more options. We like to suggest you the Premium Templates.
+Matrix Admin is basic yet very useful bootstrap 4 dashbaord template for your projects.If you are looking for modern yet clean admin template for your backend project. Matrix Admin is the right choice for you. If your application requires more options. We like to suggest you the Premium Templates.
 </p>
 
 <!-- Resources of Template -->
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/myadmin-lite/dashboard.html" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/myadmin-lite/dashboard.html</a>
+  Live Demo: <a href="https://bootstrapdemos.wrappixel.com/spike-bt-free/src/html/index.html" rel="nofollow"><b>https://bootstrapdemos.wrappixel.com/spike-bt-free/src/html/index.html</b></a>
 </li>
 <!-- <li>
-    Download Page: <a href="https://www.wrappixel.com/templates/myadmin-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/myadmin-lite/</a>
+  Download Page: <a href="https://wrappixel.com/templates/myadmin-lite" rel="nofollow">
+  https://wrappixel.com/templates/myadmin-lite</a>
 </li> -->
 <li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
+    <a href="https://wrappixel.com/templates/wrapkit#demos" rel="nofollow"><b>WrapKit</b> </a>Complete UI Kit - For Website Projects
 </li>
 </ul>
 
@@ -32,23 +27,23 @@
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2020 Wrappixel (<a href="https://wrappixel.com" rel="nofollow"><b>https://wrappixel.com</b></a>)</p>
   </li>
   <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
+    <p>Licensed under MIT (<a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a>)</p>
   </li>
 </ul>
 
 <!-- Useful Links of Template -->
 <h2>Useful Links</h2>
 <ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Free Dashboard Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Free Bootstrap Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 4 Admin Template</a> Free from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Free Angular Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Dashboard Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vuetify Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Website Themes</a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/admin-dashboard-templates"><b>Free Dashboard Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com"><b>Free Bootstrap Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/bootstrap-templates"><b>Bootstrap 4 Admin Template</b></a> Free from WrapPixel</li>
+<li><a href="https://wrappixel.com/angular-templates"><b>Free Angular Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/react-templates"><b>React Dashboard Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/vue-templates"><b>Vuetify Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/free-templates"><b>Free Website Themes</b></a> from WrapPixel</li>
 </ul>
 
 <!-- Social Media of Wrappixel -->
@@ -90,9 +85,9 @@ This README would normally document whatever steps are necessary to get your app
 <h4>Check this Repo Live Demo</h4>
 <h3><a href="https://matrixadmin.wrappixel.com/">Demo</a></h3>
 # Check our Premium version Templates
-<a href="https://wrappixel.com/templates/xtremeadmin/"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/07/xtreme-admin-bts-wp-preview.jpg"/></a><br/><br/>
-<a href="https://wrappixel.com/templates/adminpro/"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/01/adminpro-bootstrap-wp.jpg"/></a><br/><br/>
-<a href="https://wrappixel.com/templates/materialpro/"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/01/material-pro-bootstrap-admin.jpg"/></a><br/><br/>
+<a href="https://wrappixel.com/templates/xtremeadmin"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/07/xtreme-admin-bts-wp-preview.jpg"/></a><br/><br/>
+<a href="https://wrappixel.com/templates/adminpro"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/01/adminpro-bootstrap-wp.jpg"/></a><br/><br/>
+<a href="https://wrappixel.com/templates/materialpro"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/01/material-pro-bootstrap-admin.jpg"/></a><br/><br/>
 ### What is this repository for? ###
 * Quick summary
 * Version
